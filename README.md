@@ -36,6 +36,7 @@ The app uses OpenWeatherMap API to fetch weather data based on the user's input 
     ```cmd
     npm install express
     ```
+
     ```cmd
     npm install cors
     ```
